@@ -3,4 +3,5 @@ machine:
     version: 2.7.12
 test:
   override:
-    - nose2 
+    - nose2
+   
